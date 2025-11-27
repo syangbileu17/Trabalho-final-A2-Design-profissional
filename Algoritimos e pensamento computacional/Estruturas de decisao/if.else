@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+    int numero;
+    printf("Digite um numero: ");
+    scanf("%d",&numero);
+    if(numero>0){ //se numero for maior que zero o bloco é executado
+        printf("O numero %d e positivo,pois numeros maiores que zero sao positivos\n",numero);
+    }else{ //se a condição for falsa o bloco do else é executado
+        printf("O numero %d e negativo ou zero,pois numeros menores que zero sao negativos\n",numero);
+    }
+    printf("Fim do programa\n");
+    return 0;    
+}
