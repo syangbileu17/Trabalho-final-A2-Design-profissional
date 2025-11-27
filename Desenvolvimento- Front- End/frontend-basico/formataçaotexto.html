@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Livraria Online – Exemplo de Página HTML</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/estilos.css" />
+  </head>
+  <body>
+    <style>
+        body {
+            background-color: #f2e6d9; /* tom suave para leitura */
+        }
+    </style>
+    <nav
+      class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm"
+    >
+      <div class="container">
+        <!-- Logomarca -->
+        <a class="navbar-brand d-flex align-items-center" href="index.html">
+          <img
+            src="Imagens/logo.png"
+            alt="Logomarca Livraria Online"
+            height="40"
+            class="me-2"
+          />
+          <div>
+            <span class="fw-semibold text-dark">Livraria Online</span><br />
+            <small class="text-muted">Exemplo de Página HTML</small>
+          </div>
+        </a>
+        <!-- Botão para menu em telas pequenas -->
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Menu -->
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarNav"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link text-primary" href="tags.html"
+                >Tags Semânticas</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-success" href="formatacao.html"
+                >Formatação de Texto</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-danger" href="listas.html"
+                >Listas em HTML</a
+              >
+            </li>
+            <!-- Dropdown -->
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle text-purple"
+                href="#"
+                id="conteudosDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+              >
+                Outros Conteúdos
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="conteudosDropdown">
+                <li>
+                  <a class="dropdown-item" href="#">Links Internos</a>
+                </li>
+                <li><a class="dropdown-item" href="#">Exemplo com &lt;pre&gt;</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Artigo com Cabeçalho e Rodapé</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <p style="text-align: center">
+      <b>Este projeto demonstra como estruturar uma página HTML com títulos, parágrafos, listas, links e artigos semânticos.</b>
+    </p>
+
+    <img
+      src="./imagens/livraria.png"
+      alt="Imagem ilustrativa da Livraria Online"
+      style="max-width: 25%; height: auto; display: block; margin: 0 auto"
+    />
+
+    <a href="index.html"> Clique aqui para voltar para a página inicial</a>
+    <a href="tags.html"></a>
+    <a href="formatacao.html"></a>
+    <a href="listas.html"></a>
+
+    <footer
+      style="
+        background: linear-gradient(135deg, #6c757d 0%, #adb5bd 100%);
+        color: #fff;
+        text-align: center;
+        padding: 2rem 1rem;
+        font-family: 'Poppins', sans-serif;
+      "
+    >
+      <div class="container">
+        <p style="margin-bottom: 0.5rem; font-size: 1.2rem">
+          📚 Explore exemplos práticos de HTML e aprenda na prática
+        </p>
+        <div style="margin: 1rem 0">
+          <a
+            href="https://www.instagram.com"
+            target="_blank"
+            style="color: #fff; margin: 0 10px"
+          >
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+          <a
+            href="https://www.facebook.com"
+            target="_blank"
+            style="color: #fff; margin: 0 10px"
+          >
+            <i class="fab fa-facebook fa-lg"></i>
+          </a>
+          <a
+            href="https://www.twitter.com"
+            target="_blank"
+            style="color: #fff; margin: 0 10px"
+          >
+            <i class="fab fa-twitter fa-lg"></i>
+          </a>
+        </div>
+        <p style="margin-bottom: 0; font-size: 0.9rem">
+          © 2025 Livraria Online — Todos os direitos reservados
+        </p>
+      </div>
+    </footer>
+
+    <script src="js/configuracoes.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
