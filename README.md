@@ -23,4 +23,4 @@ C (para algoritmos e lógica computacional)
 O objetivo deste trabalho é demonstrar a capacidade de integrar conhecimentos técnicos e criativos para desenvolver soluções digitais completas, desde a concepção visual até a implementação funcional.
 
 👤 Autor
-Syang de Battisti Estudante de Design Profissional com foco em tecnologia, inovação e experiência do usuário.
+Syang de Battisti Estudante de Análise e Desenvolvimento de Sistemas.
