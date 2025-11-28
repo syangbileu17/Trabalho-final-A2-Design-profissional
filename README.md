@@ -1,33 +1,26 @@
 # Trabalho Final A2 - Design Profissional
+Olá! Este repositório contém o trabalho final da disciplina Design Profissional, desenvolvido por Syang de Battisti. O projeto reúne conteúdos e práticas aplicadas ao longo do curso, integrando áreas fundamentais da formação em tecnologia e design.
 
-👋 Olá! Este repositório contém o trabalho final da disciplina **Design Profissional**, desenvolvido por **Syang de Battisti**.
+📁 Estrutura do Repositório
+O projeto está organizado em quatro módulos principais:
 
-O projeto reúne conteúdos e práticas aplicadas ao longo do curso, integrando áreas fundamentais da formação em tecnologia e design.
+Algoritmos e Pensamento Computacional Contém códigos e exercícios voltados à lógica de programação e resolução de problemas computacionais.
 
----
+Desenvolvimento Front-End Abrange a criação de interfaces web utilizando HTML, CSS e JavaScript, com foco em usabilidade e design responsivo.
 
-## 📁 Estrutura do Repositório
+Design Profissional Reúne materiais visuais, protótipos e estudos de identidade visual aplicados ao projeto final.
 
-- **Algoritmos e Pensamento Computacional**  
-  Conteúdos e exercícios ligados à lógica de programação.
+Modelagem Banco de Dados Inclui esquemas de banco de dados, scripts SQL e documentação de modelagem relacional.
 
-- **Desenvolvimento Front-End**  
-  Práticas com HTML, CSS e JavaScript para construção de interfaces web.
+🔧 Tecnologias Utilizadas
+HTML, CSS, JavaScript
 
-- **Design Profissional**  
-  Aplicação de conceitos de design gráfico, identidade visual e experiência do usuário.
+MySQL / SQLite
 
-- **Modelagem de Banco de Dados**  
-  Estruturação de dados e uso de SQL para organização de informações.
+C (para algoritmos e lógica computacional)
 
----
+📌 Objetivo
+O objetivo deste trabalho é demonstrar a capacidade de integrar conhecimentos técnicos e criativos para desenvolver soluções digitais completas, desde a concepção visual até a implementação funcional.
 
-## 📷 Fanpage de Gatinhos
-
-Como parte do módulo de Front-End, foi criada uma página simples com título e imagem, aplicando conceitos de HTML básico.
-
----
-
-**Desenvolvido com 💙 por Syang de Battisti**
-
-corrige formataçao do README
+👤 Autor
+Syang de Battisti Estudante de Design Profissional com foco em tecnologia, inovação e experiência do usuário.
