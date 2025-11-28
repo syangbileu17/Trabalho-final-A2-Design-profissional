@@ -1,4 +1,4 @@
-# Trabalho Final A2 - Design Profissional
+# Trabalho Final A1- Design Profissional
 Olá! Este repositório contém o trabalho final da disciplina Design Profissional, desenvolvido por Syang de Battisti. O projeto reúne conteúdos e práticas aplicadas ao longo do curso, integrando áreas fundamentais da formação em tecnologia e design.
 
 📁 Estrutura do Repositório
